@@ -1,0 +1,163 @@
+Photo by Pavel Danilyuk: https://www.pexels.com/photo/white-robot-toy-on-black-surface-8294594/ - robot
+Photo by Anamul Rezwan: https://www.pexels.com/photo/people-stands-near-green-metal-industrial-machine-1087083/ econ2
+Photo by Pixabay: https://www.pexels.com/photo/stock-exchange-board-210607/ market5
+Photo by energepic.com: https://www.pexels.com/photo/close-up-photo-of-monitor-159888/ market6
+Photo by Collis: https://www.pexels.com/photo/person-standing-infront-of-a-display-window-3056059/ econ3
+Photo by Aleksandar Pasaric: https://www.pexels.com/photo/people-walking-on-street-near-buildings-2303337/ econ4
+Photo by Markus Spiske: https://www.pexels.com/photo/text-102152/ market7
+Photo by Jose Francisco Fernandez Saura: https://www.pexels.com/photo/street-lights-802024/ econ5
+Photo by AlphaTradeZone: https://www.pexels.com/photo/monitor-with-data-on-stock-exchange-on-screen-5831251/ market8
+Photo by Pixabay: https://www.pexels.com/photo/agriculture-alternative-energy-clouds-countryside-414837/ comm2
+Photo by Pixabay: https://www.pexels.com/photo/air-air-pollution-chimney-clouds-459728/ comm3
+Photo by Irina Iriser: https://www.pexels.com/photo/black-windmills-during-sunset-671585/ comm4
+Photo by Pixabay: https://www.pexels.com/photo/stainless-steel-radio-receiver-164926/ tech2
+Photo by Markus Spiske: https://www.pexels.com/photo/black-laptop-computer-turned-on-showing-computer-codes-177598/ tech3
+Photo by ThisIsEngineering: https://www.pexels.com/photo/code-projected-over-woman-3861969/ tech4
+Photo by Christina Morillo: https://www.pexels.com/photo/close-up-photo-of-person-typing-on-laptop-1181675/ tech6
+Photo by Pixabay: https://www.pexels.com/photo/blue-bright-lights-373543/ tech7
+Photo by Thierry Fillieul: https://www.pexels.com/photo/photo-of-black-and-white-airplane-during-golden-hour-1046493/ econ6
+Photo by Alex Azabache: https://www.pexels.com/photo/photo-of-city-during-dawn-3757144/ fin1
+Photo by Pierre Blaché: https://www.pexels.com/photo/sea-city-dawn-sky-4651134/ fin2
+Photo by Pixabay: https://www.pexels.com/photo/bank-blur-business-buy-259200/ fin3
+Photo by Michael Steinberg: https://www.pexels.com/photo/gold-bars-366551/ comm5
+Photo by Brett Sayles: https://www.pexels.com/photo/low-angle-photo-of-glass-buildings-2599538/ fin4
+Photo by Amar Saleem: https://www.pexels.com/photo/city-skyline-beside-water-during-night-91628/ fin/econ/cons
+Photo by Tuur  Tisseghem: https://www.pexels.com/photo/people-inside-mall-2954405/ cons2
+Photo by Adrian Agawin: https://www.pexels.com/photo/photo-of-shopping-mall-2767756/ cons3
+Photo by Dex Planet: https://www.pexels.com/photo/people-walking-inside-shopping-mall-1628026/ cons4
+Photo by jc dubi: https://www.pexels.com/photo/high-rise-building-near-body-of-water-during-night-time-713458/ cons5
+Photo by Pixabay: https://www.pexels.com/photo/bullion-gold-gold-bars-golden-47047/ econ7
+Photo by Dmitry Demidov: https://www.pexels.com/photo/brown-and-silver-round-coins-3790637/ comm7
+Photo by Anna Shvets: https://www.pexels.com/photo/red-and-white-medication-pills-3683041/ hc1
+Photo by Maksim Goncharenok: https://www.pexels.com/photo/vial-and-pills-on-a-red-surface-5994622/ hc2
+Photo by Pixabay: https://www.pexels.com/photo/spilled-bottle-of-yellow-capsule-pills-208518/ hc3
+Photo by Pixabay: https://www.pexels.com/photo/thermometer-on-medical-pills-139398/ hc4
+Photo by Anna Shvets: https://www.pexels.com/photo/white-capsules-on-yellow-background-3683056/ hc5
+Photo by Szymon Shields: https://www.pexels.com/photo/notes-business-money-hospital-6042853/ hc6
+Photo by Pixabay: https://www.pexels.com/photo/black-smoke-coming-from-fire-417070/ war1
+Photo by Gladson Xavier: https://www.pexels.com/photo/king-chess-piece-59197/ war2
+Photo by cottonbro studio: https://www.pexels.com/photo/black-and-white-no-war-text-3831760/ war3
+Photo by Алесь Усцінаў : https://www.pexels.com/photo/bomb-in-front-of-building-11920867/ war4
+Photo by Markus Spiske: https://www.pexels.com/photo/climate-sign-outside-blur-2990644/ war5
+Photo by Aleksandar Pasaric: https://www.pexels.com/photo/people-walking-on-street-near-buildings-2303337/ marketsbanner
+Photo by Pixabay: https://www.pexels.com/photo/planet-earth-220201/ world
+Photo by Aksonsat Uanthoeng: https://www.pexels.com/photo/close-up-photo-of-assorted-color-of-push-pins-on-map-1078850/ chess
+Photo by Johannes Plenio: https://www.pexels.com/photo/brown-dock-during-sunset-1102918/ hc8
+Photo by Pixabay: https://www.pexels.com/photo/art-cobblestone-fun-harmony-261055/ hc9
+Photo by Artem Podrez: https://www.pexels.com/photo/a-close-up-view-of-a-covid-19-vaccine-vial-on-blue-background-5878504/ hc10
+Photo by Karolina Grabowska: https://www.pexels.com/photo/heap-of-various-pills-in-blisters-on-yellow-background-4210611/ hc11
+Photo by Pixabay: https://www.pexels.com/photo/bed-empty-equipments-floor-236380/ hc12
+Photo by Chokniti Khongchum: https://www.pexels.com/photo/person-holding-container-with-seaweed-2280568/ hc13
+Photo by Towfiqu barbhuiya: https://www.pexels.com/photo/containers-with-pills-11200114/ hc14
+Photo by Italo Melo: https://www.pexels.com/photo/brown-grass-2773772/ hc15
+Photo by sergio  souza: https://www.pexels.com/photo/an-empty-gas-station-3602009/ mat2
+Photo by Anoop VS: https://www.pexels.com/photo/steel-tower-rig-in-the-middle-of-the-ocean-5912225/ en2 
+Photo by Jan-Rune Smenes Reite: https://www.pexels.com/photo/clouds-over-offshore-platform-3207531/ en3 
+Photo by Furkan Elveren: https://www.pexels.com/photo/halic-istanbul-14471492/ ind3
+Photo by Zukiman Mohamad: https://www.pexels.com/photo/offshore-drilling-rig-on-body-of-water-87236/ en4
+Photo by Bidvine: https://www.pexels.com/photo/person-holding-dewalt-cordless-hand-drill-1249610/ mat3
+Photo by Yaroslav Shuraev: https://www.pexels.com/photo/drilling-machine-on-a-shelf-4889150/ mat4
+Photo by Paula: https://www.pexels.com/photo/brown-firewood-128639/ mat5 
+Photo by Anamul Rezwan: https://www.pexels.com/photo/cut-off-saw-cutting-metal-with-sparks-1145434/ ind4 
+Photo by Pixabay: https://www.pexels.com/photo/green-leafed-trees-near-body-of-water-227692/ banner1
+Photo by Markus Spiske: https://www.pexels.com/photo/coronavirus-statistics-on-screen-3970330/ banne4
+Photo by Madison Inouye: https://www.pexels.com/photo/news-inscription-on-neon-signboard-hanging-on-street-1577882/ banner5
+Photo by Markus Spiske: https://www.pexels.com/photo/demonstration-rally-politics-cobblestone-street-2990639/ banner6
+Photo by Suzy Hazelwood: https://www.pexels.com/photo/brown-world-map-illustration-1098526/ banner7
+Photo by <a href="https://unsplash.com/@iammrcup?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Mr Cup / Fabien Barral</a> on <a href="https://unsplash.com/s/photos/politics?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a> pol1
+Photo by <a href="https://unsplash.com/@adijoshi11?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Aditya Joshi</a> on <a href="https://unsplash.com/s/photos/politics?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a> pol2
+Photo by <a href="https://unsplash.com/@joshuas?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Joshua Sukoff</a> on <a href="https://unsplash.com/s/photos/politics?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a> pol3 
+Photo by <a href="https://unsplash.com/@thisistherealdiana?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">diana kereselidze</a> on <a href="https://unsplash.com/s/photos/politics?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a> pol4 
+Photo by <a href="https://unsplash.com/@jontyson?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Jon Tyson</a> on <a href="https://unsplash.com/s/photos/politics?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>pol5
+Photo by <a href="https://unsplash.com/@heathermount?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Heather Mount</a> on <a href="https://unsplash.com/s/photos/politics?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a> pol7
+Photo by <a href="https://unsplash.com/@christianlue?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Christian Lue</a> on <a href="https://unsplash.com/s/photos/politics?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a> pol7 
+Photo by <a href="https://unsplash.com/@davideragusa?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">davide ragusa</a> on <a href="https://unsplash.com/s/photos/crowd?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a> pol8
+Photo by <a href="https://unsplash.com/@mikepetrucci?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Mike Petrucci</a> on <a href="https://unsplash.com/s/photos/shopping?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a> cons6
+Photo by Andrea Piacquadio: https://www.pexels.com/photo/statute-of-liberty-at-daytime-722014/ us2
+Photo by Ken Cheung: https://www.pexels.com/photo/brown-rock-formation-7459424/ us3
+Photo by Pixabay: https://www.pexels.com/photo/abraham-lincoln-america-architecture-art-208724/ us4
+Photo by Pixabay: https://www.pexels.com/photo/american-oval-signage-221327/ us6
+Photo by Markus Winkler: https://www.pexels.com/photo/usa-flag-2862155/ us7 
+Photo by Lewis R: https://www.pexels.com/photo/the-e11even-night-club-in-miami-florida-12341819/ us8
+Photo by <a href="https://unsplash.com/@alexandrelallemand?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">ALEXANDRE LALLEMAND</a> on <a href="https://unsplash.com/s/photos/japon?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a> jp1
+Photo by <a href="https://unsplash.com/@alexandrelallemand?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">ALEXANDRE LALLEMAND</a> on <a href="https://unsplash.com/s/photos/japon?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a> jp2 
+Photo by Alex Knight: https://www.pexels.com/photo/buildings-2425251/ jp3
+Photo by Evgeny Tchebotarev: https://www.pexels.com/photo/woman-under-umbrella-walking-through-the-street-2187673/ jp4
+Photo by Satoshi Hirayama: https://www.pexels.com/photo/white-wooden-closed-door-1743555/ jp5
+Photo by Dosio Dosev: https://www.pexels.com/photo/inverted-rail-tracks-i-the-city-13065232/ jp6
+Photo by Yusuke Furuya: https://www.pexels.com/photo/concrete-bridge-with-mountain-view-8551382/ jp7
+Photo by Ryutaro Tsukata: https://www.pexels.com/photo/japanese-women-taking-selfie-on-authentic-street-with-asian-pagoda-5745779/ jp8 
+Photo by <a href="https://unsplash.com/@alxwlfe?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Alex Wolfe</a> on <a href="https://unsplash.com/s/photos/japan-culture?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a> jp9
+Photo by <a href="https://unsplash.com/@christianlue?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Christian Lue</a> on <a href="https://unsplash.com/s/photos/china?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a> cn1
+Photo by <a href="https://unsplash.com/@hansonluu?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Hanson Lu</a> on <a href="https://unsplash.com/s/photos/china?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a> cn2 
+Photo by <a href="https://unsplash.com/@emilegt?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Emile Guillemot</a> on <a href="https://unsplash.com/s/photos/china?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a> cn3 
+Photo by Dimitris.s12: https://www.pexels.com/photo/vehicle-on-street-in-between-high-rise-buildings-with-stores-on-the-bottom-1441932/ cn4 
+Photo by will louis: https://www.pexels.com/photo/temples-on-top-of-the-mountain-5342965/ cn5 
+Photo by Jimmy Chan: https://www.pexels.com/photo/photo-of-a-red-taxi-on-a-street-2535387/ cn6 
+Photo by Brayden Law: https://www.pexels.com/photo/vehicles-on-road-1738991/ cn7
+Photo by Aleksandar Pasaric: https://www.pexels.com/photo/blue-vehicle-2506861/ cn8 
+Photo by Jimmy Chan: https://www.pexels.com/photo/street-with-cars-in-a-city-hong-kong-12971955/ cn9
+Photo by Ronald Pang: https://www.pexels.com/photo/city-skyline-during-night-time-4392569/ cn10 
+Photo by Felix Mittermeier: https://www.pexels.com/photo/belgium-flag-on-top-of-the-building-532864/ gm1
+Photo by Wikimedia Commons: https://www.pexels.com/photo/berlin-eu-european-union-federal-chancellery-4666/ gm2
+Photo by Niki Nagy: https://www.pexels.com/photo/flag-near-building-1128416/ gm3
+Photo by Leon: https://www.pexels.com/photo/photo-of-vehicles-on-road-near-buildings-2055494/ gm4
+Photo by Johannes Plenio: https://www.pexels.com/photo/building-1126377/ gm5
+Photo by Leon: https://www.pexels.com/photo/low-angle-photo-0f-blue-sky-between-circular-structure-1919365/ gm6
+Photo by Pixabay: https://www.pexels.com/photo/white-and-gray-concrete-building-under-cloudy-blue-sky-during-daytime-164420/ gm7
+Photo by <a href="https://unsplash.com/@herrherrmann?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Sebastian Herrmann</a> on <a href="https://unsplash.com/s/photos/german?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>gm8 
+Photo by <a href="https://unsplash.com/@florianwehde?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Florian Wehde</a> on <a href="https://unsplash.com/s/photos/german?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a> gm9
+Photo by Eva Rafajová: https://www.pexels.com/photo/a-beach-in-dubai-9687358/ md1
+Photo by Zaib Azhar 📷: https://www.pexels.com/photo/people-standing-near-high-rise-building-during-night-time-1707310/ md2
+Photo by Musa Ortaç: https://www.pexels.com/photo/colorful-town-with-buildings-and-old-mosque-4464601/ md3
+Photo by Haley Black: https://www.pexels.com/photo/white-concrete-building-2087387/ md4
+Photo by Carlos  Pernalete Tua: https://www.pexels.com/photo/white-airplane-674783/ md5
+Photo by <a href="https://unsplash.com/@alexrvasey?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Alex Vasey</a> on <a href="https://unsplash.com/s/photos/jordan?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a> md6
+Photo by <a href="https://unsplash.com/@afgprogrammer?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Mohammad Rahmani</a> on <a href="https://unsplash.com/s/photos/afghanistan?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a> md7
+Photo by <a href="https://unsplash.com/@mohammadhusaini1?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Mohammad Husaini</a> on <a href="https://unsplash.com/s/photos/afghanistan?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a> md8
+Photo by <a href="https://unsplash.com/@patrickperkins?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Patrick Perkins</a> on <a href="https://unsplash.com/s/photos/afghanistan?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a> md9 
+Photo by <a href="https://unsplash.com/@mahdi17?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Md Mahdi</a> on <a href="https://unsplash.com/s/photos/iraq?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+Photo by <a href="https://unsplash.com/@mahdi17?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Md Mahdi</a> on <a href="https://unsplash.com/s/photos/iraq?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a> md10
+Photo by Alisha Lubben: https://www.pexels.com/photo/aerial-photography-of-city-near-mountain-2017747/ sa1
+Photo by george charry: https://www.pexels.com/photo/aerial-view-of-medellin-4265209/ sa2
+Photo by Frank Araujo: https://www.pexels.com/photo/mountain-under-cloudy-sky-12693427/ sa3
+Photo by David Peinado: https://www.pexels.com/photo/migrantes-venezuela-14531442/ sa4
+Photo by <a href="https://unsplash.com/@ronal1984?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Ronal Labrador</a> on <a href="https://unsplash.com/s/photos/venezuela?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a> sa5
+Photo by <a href="https://unsplash.com/@jsshotz?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Jorge Salvador</a> on <a href="https://unsplash.com/s/photos/venezuela?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a> sa6
+Photo by Bruno Scramgnon: https://www.pexels.com/photo/silhouette-of-two-boats-on-body-of-water-585758/ sa7
+Photo by <a href="https://unsplash.com/@mlshajder?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Milos Hajder</a> on <a href="https://unsplash.com/s/photos/brazil?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a> sa8
+Photo by <a href="https://unsplash.com/es/@krysamon?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Krys Amon</a> on <a href="https://unsplash.com/s/photos/brazil?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a> sa9
+Photo by <a href="https://unsplash.com/@tobiastu?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Tobias Tullius</a> on <a href="https://unsplash.com/s/photos/nicaragua?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>sa10
+Photo by Дмитрий Трепольский: https://www.pexels.com/photo/the-famous-saint-basil-s-cathedral-in-russia-8285167/ ru1
+Photo by Evgenia Kirpichnikova: https://www.pexels.com/photo/aerial-view-of-city-buildings-5956512/ ru2
+Photo by Artyom Kulakov: https://www.pexels.com/photo/red-bus-2266406/ ru3
+Photo by Pixabay: https://www.pexels.com/photo/black-building-lighted-under-clear-sky-164583/ ru4
+Photo by Alexandr Bondar: https://www.pexels.com/photo/the-moskva-river-in-the-early-evening-5772312/ ru5
+Photo by Magda Ehlers: https://www.pexels.com/photo/brown-map-on-map-2660262/ af1
+Photo by Tope A. Asokere: https://www.pexels.com/photo/people-protesting-on-the-street-5789323/ af2
+Photo by ismail seghosime: https://www.pexels.com/photo/people-standing-on-street-5671397/ af3
+Photo by <a href="https://unsplash.com/@amani_nation?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Amani Nation</a> on <a href="https://unsplash.com/s/photos/kenya?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a> af4
+Photo by <a href="https://unsplash.com/es/@yonkokilasi?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Yonko Kilasi</a> on <a href="https://unsplash.com/s/photos/nairobi?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a> af5 
+Photo by <a href="https://unsplash.com/@lorenzocerato?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Lorenzo Cerato</a> on <a href="https://unsplash.com/s/photos/nairobi?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a> af6
+Photo by <a href="https://unsplash.com/@lorenzocerato?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Lorenzo Cerato</a> on <a href="https://unsplash.com/s/photos/nairobi?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a> af7
+Photo by <a href="https://unsplash.com/@kylefrederick10?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">kylefromthenorth</a> on <a href="https://unsplash.com/s/photos/south-africa?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a> af8
+Photo by Scott Webb: https://www.pexels.com/photo/aerial-photography-of-urban-city-under-blue-sky-136721/ af9
+Photo by Blue Ox Studio: https://www.pexels.com/photo/photo-of-people-walking-outdoors-2014342/ af10
+Photo by Tracy Le Blanc: https://www.pexels.com/photo/person-holding-iphone-showing-social-networks-folder-607812/ comun1
+Photo by Timur Saglambilek: https://www.pexels.com/photo/analytics-text-185576/ comun2
+Photo by Kaboompics .com: https://www.pexels.com/photo/marketing-strategy-6229/ comun3
+Photo by Kaboompics .com: https://www.pexels.com/photo/customers-users-color-wheel-6231/ comun4
+Photo by DSD: https://www.pexels.com/photo/men-s-black-jacket-1822608/ comun5
+Photo by Pixabay: https://www.pexels.com/photo/blue-master-card-on-denim-pocket-164571/ fin5
+Photo by Miguel Á. Padriñán: https://www.pexels.com/photo/black-and-white-photography-of-a-mother-board-3520692/ comun6
+Photo by <a href="https://unsplash.com/@alexbemore?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Alexander Shatov</a> on <a href="https://unsplash.com/s/photos/social-media?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a> comun7
+Photo by <a href="https://unsplash.com/@camstejim?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">camilo jimenez</a> on <a href="https://unsplash.com/s/photos/social-media?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a> comun8
+Photo by <a href="https://unsplash.com/@pinho?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Pinho .</a> on <a href="https://unsplash.com/s/photos/media?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a> comun9
+Photo by Mike B: https://www.pexels.com/photo/elvis-presley-digital-wallpaper-114820/ comun10
+Photo by <a href="https://unsplash.com/@nci?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">National Cancer Institute</a> on <a href="https://unsplash.com/s/photos/biotech?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a> - biotech
+Photo by <a href="https://unsplash.com/@berkaygumustekin?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Berkay Gumustekin</a> on <a href="https://unsplash.com/photos/hRg1KL4-AUE?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>toronot 3
+Photo by Pixabay: https://www.pexels.com/photo/aerial-view-of-city-during-nighttime-531360/ build a chart
+Photo by Ivan Babydov: https://www.pexels.com/photo/gold-bitcoin-coin-on-background-of-growth-chart-7788009/ crypto1
+Photo by Morthy Jameson: https://www.pexels.com/photo/tablet-leaning-on-a-laptop-9588210/ crypto5
+Photo by Worldspectrum: https://www.pexels.com/photo/ripple-etehereum-and-bitcoin-and-micro-sdhc-card-844124/ crypto6
+Photo by Jonathan Borba: https://www.pexels.com/photo/close-up-of-etheroum-crypto-currency-coin-14911400/ crytpo7

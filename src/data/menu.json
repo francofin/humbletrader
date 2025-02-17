@@ -1,0 +1,282 @@
+[
+  {
+    "title": "Home",
+    "link":"/"
+  },
+  {
+    "title":"Market Performance",
+    "dropdown": [
+      {
+        "title": "Index Performance",
+        "link": "/markets"
+      },
+      {
+        "title": "ETF Performance",
+        "link": "/etf-performance"
+      },
+      {
+        "title": "Crypto Performance",
+        "link": "/crypto-performance"
+      },
+      {
+        "title": "S&P 500",
+        "link": "/indexes/sp500"
+      },
+      {
+        "title": "Dow Jones",
+        "link": "/indexes/dow"
+      },
+      {
+        "title": "Nasdaq",
+        "link": "/indexes/nasdaq"
+      },
+      {
+        "title": "Russell 2000",
+        "link": "/indexes/r2000"
+      },
+      {
+        "title": "TSX Composite",
+        "link": "/indexes/tsx"
+      }
+    ]
+  },
+  {
+    "title": "Market and Factor Research",
+    "dropdown": [
+      {
+      "title": "Capital Markets Charts",
+      "link": "/capital-markets"
+    },
+    {
+      "title": "Factor Performance",
+      "link": "/factor-performance"
+    },
+    {
+      "title": "Research Articles",
+      "link": "/research-posts"
+    }
+  ]
+  },
+  {
+    "title": "News",
+    "position": "static",
+    "megamenu": [
+      [
+        {
+          "title": "Now Happening",
+          "links": [
+            {
+              "title": "Market News",
+              "link": "/newsarticles/markets",
+              "parent": "Home"
+            },
+            {
+              "title": "Economy",
+              "link": "/newsarticles/economy",
+              "parent": "Home"
+            },
+            {
+              "title": "Politics",
+              "link": "/newsarticles/politics",
+              "parent": "Home"
+            },
+            {
+              "title": "Inflation",
+              "link": "/newsarticles/inflation",
+              "parent": "Home",
+              "new": true
+            },
+            {
+              "title": "Crypto News",
+              "link": "/newsarticles/crypto",
+              "parent": "Home",
+              "new": true
+            }
+          ]
+        }
+      ],
+      [
+        {
+          "title": "Country/Region",
+          "links": [
+            {
+              "title": "US News",
+              "link": "/newsarticles/etaunido"
+            },
+            {
+              "title": "China",
+              "link": "/newsarticles/china"
+            },
+            {
+              "title": "Middle East",
+              "link": "/newsarticles/mediooeste"
+            },
+            {
+              "title": "German",
+              "link": "/newsarticles/aleman"
+            },
+            {
+              "title": "Japan",
+              "link": "/newsarticles/japon"
+            },
+            {
+              "title": "Africa",
+              "link": "/newsarticles/africa"
+            },
+            {
+              "title": "South America",
+              "link": "/newsarticles/suram"
+            }
+          ]
+        }
+      ],
+      [
+        {
+          "title": "Sector",
+          "links": [
+            {
+              "title": "Technology",
+              "link": "/newsarticles/tech"
+            },
+            {
+              "title": "Energy",
+              "link": "/newsarticles/energy"
+            },
+            {
+              "title": "Oil",
+              "link": "/newsarticles/oil"
+            },
+            {
+              "title": "Real Estate",
+              "link": "/newsarticles/realestate"
+            },
+            {
+              "title": "Financials",
+              "link": "/newsarticles/finance"
+            },
+            {
+              "title": "Health Care",
+              "link": "/newsarticles/health",
+              "new": true
+            }
+          ]
+        }
+      ],
+      [
+        {
+          "title": "Sector",
+          "links": [
+            {
+              "title": "Consumer",
+              "link": "/newsarticles/cons",
+              "new": true
+            },
+            {
+              "title": "Materials",
+              "link": "/newsarticles/materials",
+              "new": true
+            },
+            {
+              "title": "Communications",
+              "link": "/newsarticles/comm",
+              "new": true
+            },
+            {
+              "title": "Utilities",
+              "link": "/newsarticles/util",
+              "new": true
+            },
+            {
+              "title": "Industrials",
+              "link": "/newsarticles/indus",
+              "new": true
+            }
+          ]
+        }
+      ]
+    ],
+    "services": [
+      {
+        "title": "Portfolio Analysis",
+        "content": "Test Stock Ideas",
+        "icon": "destination-map-1"
+      },
+      {
+        "title": "Stock Research",
+        "content": "Information with one click",
+        "icon": "money-box-1"
+      },
+      {
+        "title": "Portfolio Tracker",
+        "content": "Track of the equities you want",
+        "icon": "customer-support-1"
+      },
+      {
+        "title": "Crypto Research",
+        "content": "Coin Metrics",
+        "icon": "secure-payment-1"
+      }
+    ],
+    "image": "/images/homepageImages/megamenu.jpg"
+  },
+  {
+    "title":"Equities",
+    "dropdown": [
+      {
+        "title": "S&P 500 Stocks",
+        "link": "/universe/sp500"
+      },
+      {
+        "title": "Nasdaq Stocks",
+        "link": "/universe/nasdaq"
+      },
+      {
+        "title": "Dow Jones",
+        "link": "/universe/dj"
+      },
+      {
+        "title": "Canadian Equities",
+        "link": "/tsx"
+      },
+      {
+        "title": "European Equities",
+        "link": "/euro",
+        "new": true
+      },
+      {
+        "title": "ETFs",
+        "link": "/universe/etfs",
+        "new": true
+      }
+    ]
+  },
+  {
+    "title":"About",
+    "dropdown": [
+      {
+        "title": "About Fintank",
+        "link": "/about"
+      },
+      {
+        "title": "FAQ",
+        "link": "/faq"
+      }
+    ]
+  },
+  {
+    "title": "Stock Charter",
+    "link": "/build-comparison"
+  },
+  {
+    "title": "Sign up",
+    "link": "/signup",
+    "hideToLoggedUser": true
+  },
+  {
+    "title": "Log In",
+    "link": "/login",
+    "button": true,
+    "hideToLoggedUser": true
+  }
+ 
+]

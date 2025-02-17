@@ -1,0 +1,392 @@
+{
+    "sp500":{
+        "title":"S&P 500 Index",
+        "indexHistory":"Per the spglobal website, The S&P 500® is widely regarded as the best single gauge of large-cap U.S. equities. According to our Annual Survey of Assets, an estimated USD 15.6 trillion is indexed or benchmarked to the index, with indexed assets comprising approximately USD 7.1 trillion of this total (as of Dec. 31, 2021). The index includes 500 leading companies and covers approximately 80% of available market capitalization.",
+        "comparisonIndexes":[
+            {
+                "value":"N100",
+                "label":"Euronext 100",
+                "type":"index"
+
+            },
+            {
+                "value":"FTSE",
+                "label":"FTSE 100",
+                "type":"index"
+            },
+            {
+                "value":"FTMC",
+                "label":"FTSE 250",
+                "type":"index"
+            },
+            {
+                "value":"HSI",
+                "label":"Hang Seng Index",
+                "type":"index"
+            },
+            {
+                "value":"N225",
+                "label":"Nikkei 225",
+                "type":"index"
+            },
+            {
+                "value":"RUT",
+                "label":"Russell 2000",
+                "type":"index"
+            },
+            {
+                "value":"MID",
+                "label":"S&P 400 Mid Cap",
+                "type":"index"
+            },
+            {
+                "value":"GSPTSE",
+                "label":"S&P/TSX Composite",
+                "type":"index"
+            },
+            {
+                "value":"STOXX",
+                "label":"STOXX 600",
+                "type":"index"
+            },
+            {
+                "value":"VIX",
+                "label":"CBOE VIX",
+                "type":"index"
+
+            }
+        ]
+    },
+    "tsx":{
+        "title":"S&P/TSX Composite Index",
+        "indexHistory":"Per the TMX Money website, The S&P/TSX Composite Index has provided investors with a premier indicator of market activity for Canadian equity markets since its launch in 1977. With approximately 95% coverage of the Canadian equities market, it is the primary gauge for Canadian-based, Toronto Stock Exchange listed companies. The S&P/TSX Composite Index serves the dual purpose of a benchmark and an investable index. The index is designed to offer the representation of a broad benchmark index while maintaining the liquidity characteristics of narrower indices. This unique combination makes the S&P/TSX Composite Index ideal for portfolio management and index replication.",
+        "comparisonIndexes":[
+            {
+                "value":"N100",
+                "label":"Euronext 100",
+                "type":"index"
+
+            },
+            {
+                "value":"FTSE",
+                "label":"FTSE 100",
+                "type":"index"
+            },
+            {
+                "value":"FTMC",
+                "label":"FTSE 250",
+                "type":"index"
+            },
+            {
+                "value":"HSI",
+                "label":"Hang Seng Index",
+                "type":"index"
+            },
+            {
+                "value":"N225",
+                "label":"Nikkei 225",
+                "type":"index"
+            },
+            {
+                "value":"GSPC",
+                "label":"S&P 500",
+                "type":"index"
+            },
+            {
+                "value":"MID",
+                "label":"S&P 400 Mid Cap",
+                "type":"index"
+            },
+            {
+                "value":"TX60_TS",
+                "label":"S&P/TSX 60",
+                "type":"index"
+            },
+            {
+                "value":"STOXX",
+                "label":"STOXX 600",
+                "type":"index"
+            },
+            {
+                "value":"VIX",
+                "label":"CBOE VIX",
+                "type":"index"
+
+            }
+        ]
+    },
+    "nasdaq":{
+        "title":"Nassaq",
+        "indexHistory":"The Nasdaq Composite is a stock market index that includes almost all stocks listed on the Nasdaq stock exchange. Along with the Dow Jones Industrial Average and S&P 500, it is one of the three most-followed stock market indices in the United States. The composition of the NASDAQ Composite is heavily weighted towards companies in the information technology sector. The Nasdaq-100, which includes 100 of the largest non-financial companies in the Nasdaq Composite, accounts for over 90% of the movement of the Nasdaq Composite.",
+        "comparisonIndexes":[
+            {
+                "value":"DJT",
+                "label":"Dow Jones Transportation Average",
+                "type":"index"
+
+            },
+            {
+                "value":"DJUSSC",
+                "label":"Dow Jones U.S. Semiconductors Index",
+                "type":"index"
+            },
+            {
+                "value":"DWCF",
+                "label":"Dow Jones U.S. Total Stock Mark",
+                "type":"index"
+            },
+            {
+                "value":"DJU",
+                "label":"Dow Jones Utility Average",
+                "type":"index"
+            },
+            {
+                "value":"NMX0530",
+                "label":"FTSE 350 Index - Oil & Gas Prod",
+                "type":"index"
+            },
+            {
+                "value":"GSPC",
+                "label":"S&P 500",
+                "type":"index"
+            },
+            {
+                "value":"GSPTSE",
+                "label":"S&P/TSX Composite index",
+                "type":"index"
+            },
+            {
+                "value":"VIX",
+                "label":"CBOE VIX",
+                "type":"index"
+
+            }
+        ]
+    },
+    "dow":{
+        "title":"Dow Jones Industrial Average",
+        "indexHistory":"Per the spglobal website, The Dow Jones Industrial Average groups together the prices of 30 of the most traded stocks on the New York Stock Exchange (NYSE) and the Nasdaq. It is an index that helps investors determine the overall direction of stock prices.",
+        "comparisonIndexes":[
+            {
+                "value":"NSEI",
+                "label":"Nifty 50",
+                "type":"index"
+
+            },
+            {
+                "value":"TX60_TS",
+                "label":"S&P/TSX 60 Index",
+                "type":"index"
+            },
+            {
+                "value":"FCHI",
+                "label":"CAC 40",
+                "type":"index"
+            },
+            {
+                "value":"NYITR",
+                "label":"NYSE International 100 Index",
+                "type":"index"
+            },
+            {
+                "value":"IBEX",
+                "label":"IBEX 35",
+                "type":"index"
+            },
+            {
+                "value":"BSESN",
+                "label":"S&P BSE Sensex",
+                "type":"index"
+            },
+            {
+                "value":"MXX",
+                "label":"IPC Mexico",
+                "type":"index"
+            },
+            {
+                "value":"GSPC",
+                "label":"S&P 500",
+                "type":"index"
+            },
+            {
+                "value":"STOXX50E",
+                "label":"ESTX 50",
+                "type":"index"
+            },
+            {
+                "value":"VIX",
+                "label":"CBOE VIX",
+                "type":"index"
+
+            }
+        ]
+    },
+    "r2000":{
+        "title":"Russell 2000 Index",
+        "indexHistory":"Per FTSE Russell, The Russell 2000® Index measures the performance of the small-cap segment of the US equity universe. It includes approximately 2,000 of the smallest securities based on a combination of their market cap and current index membership.",
+        "comparisonIndexes":[
+            {
+                "value":"GSPC",
+                "label":"S&P 500",
+                "type":"index"
+
+            },
+            {
+                "value":"FTMC",
+                "label":"FTSE 250",
+                "type":"index"
+            },
+            {
+                "value":"FTLC",
+                "label":"FTSE 350",
+                "type":"index"
+            },
+            {
+                "value":"RUI",
+                "label":"Russell 1000",
+                "type":"index"
+            },
+            {
+                "value":"RUA",
+                "label":"Russell 3000",
+                "type":"index"
+            },
+            {
+                "value":"RMCCTR",
+                "label":"Russell Mid Cap",
+                "type":"index"
+            },
+            {
+                "value":"OEX",
+                "label":"S&P 100",
+                "type":"index"
+            },
+            {
+                "value":"STOXX",
+                "label":"STOXX 600",
+                "type":"index"
+            },
+            {
+                "value":"N300",
+                "label":"Nikkei 300",
+                "type":"index"
+            },
+            {
+                "value":"VIX",
+                "label":"CBOE VIX",
+                "type":"index"
+
+            }
+        ]
+    },
+    "maFrequency":[
+        {
+            "value":"10 Day Moving Average",
+            "label":"10 Day Moving Average",
+            "type":"frequency"
+        },
+        {
+            "value":"20 Day Moving Average",
+            "label":"20 Day Moving Average",
+            "type":"frequency"
+        },
+        {
+            "value":"50 Day Moving Average",
+            "label":"50 Day Moving Average",
+            "type":"frequency"
+        },
+        {
+            "value":"120 Day Moving Average",
+            "label":"120 Day Moving Average",
+            "type":"frequency"
+        },
+        {
+            "value":"200 Day Moving Average",
+            "label":"200 Day Moving Average",
+            "type":"frequency"
+        }
+    ],
+    "returnFrequency":[
+        {
+            "value":"30 Day Return Spread",
+            "label":"30 Day Return Spread",
+            "type":"frequency"
+        },
+        {
+            "value":"60 Day Return Spread",
+            "label":"60 Day Return Spread",
+            "type":"frequency"
+        },
+        {
+            "value":"120 Day Return Spread",
+            "label":"120 Day Return Spread",
+            "type":"frequency"
+        },
+        {
+            "value":"1 year Return Spread",
+            "label":"1 year Return Spread",
+            "type":"frequency"
+        }
+    ],
+    "volFrequency":[
+        {
+            "value":"30 Day Vol Spread",
+            "label":"30 Day Vol Spread",
+            "type":"frequency"
+        },
+        {
+            "value":"60 Day Vol Spread",
+            "label":"60 Day Vol Spread",
+            "type":"frequency"
+        },
+        {
+            "value":"90 Day Vol Spread",
+            "label":"90 Day Vol Spread",
+            "type":"frequency"
+        },
+        {
+            "value":"120 Day Vol Spread",
+            "label":"120 Day Vol Spread",
+            "type":"frequency"
+        }
+    ],
+    "sharpeFrequency":[
+        {
+            "value":"30 Day Return to Risk",
+            "label":"30 Day Return to Risk",
+            "type":"frequency"
+        },
+        {
+            "value":"60 Day Return to Risk",
+            "label":"60 Day Return to Risk",
+            "type":"frequency"
+        },
+        {
+            "value":"120 Day Return to Risk",
+            "label":"120 Day Return to Risk",
+            "type":"frequency"
+        },
+        {
+            "value":"1 Year Return to Risk",
+            "label":"1 Year Return to Risk",
+            "type":"frequency"
+        }
+    ],
+    "betaFrequency":[
+        {
+            "value":"30 Day Beta",
+            "label":"30 Day Beta",
+            "type":"frequency"
+        },
+        {
+            "value":"60 Day Beta",
+            "label":"60 Day Beta",
+            "type":"frequency"
+        },
+        {
+            "value":"120 Day Beta",
+            "label":"120 Day Beta",
+            "type":"frequency"
+        }
+    ]
+}
