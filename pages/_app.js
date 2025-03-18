@@ -1,6 +1,7 @@
 import React from "react"
 import Layout from "@components/Layout"
 import { DjangoAuthProvider} from '@context/authContext';
+import { AccountContextProvider } from "@context/accountContext";
 import { Provider } from "react-redux";
 import { wrapper, theStore, persistor } from "@src/store";
 import { PersistGate } from 'redux-persist/integration/react'
@@ -20,13 +21,15 @@ const App = ({ Component, pageProps, ...rest }) => {
 
   return (
     <DjangoAuthProvider>
-      <Provider store={store}>
-        <PersistGate loading={null} persistor={persistor}>
-          <Layout {...pageProps}>
-            <Component {...pageProps} />
-          </Layout>
-        </PersistGate>
-      </Provider>
+      <AccountContextProvider>
+        <Provider store={store}>
+          <PersistGate loading={null} persistor={persistor}>
+            <Layout {...pageProps}>
+              <Component {...pageProps} />
+            </Layout>
+          </PersistGate>
+        </Provider>
+      </AccountContextProvider>
     </DjangoAuthProvider>
   )
 }

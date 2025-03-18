@@ -277,6 +277,12 @@
     "link": "/login",
     "button": true,
     "hideToLoggedUser": true
+  },
+  {
+    "title": "Connect Wallet",
+    "link": "/wallet-account",
+    "button": true,
+    "hideToLoggedUser": true
   }
  
 ]

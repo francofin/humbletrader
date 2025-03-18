@@ -182,13 +182,13 @@
 }
 // 7. Muted button
 
-.btn-muted {
-  @include button-variant($text-muted, $text-muted);
-}
+// .btn-muted {
+//   @include button-variant($text-muted, $text-muted);
+// }
 
-.btn-outline-muted {
-  @include button-outline-variant($text-muted);
-}
+// .btn-outline-muted {
+//   @include button-outline-variant($text-muted);
+// }
 
 // 8. Adjust custom switch
 .form-switch {
