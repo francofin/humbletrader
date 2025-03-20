@@ -7,11 +7,11 @@ const {
 const { ethers } = require("hardhat");
 
   const setTokenSupply = (n) => {
-    return ethers.utils.parseUnits(n, 'ether');
+    return ethers.utils.parseUnits(n.toString(), 'ether');
   }
 
   describe("Token", () => {
-    let tokenSupply = setTokenSupply('1000000');
+    let tokenSupply = setTokenSupply(0.001);
     let token;
     let owner;
     let addr1;

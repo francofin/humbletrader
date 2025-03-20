@@ -1,0 +1,25 @@
+{
+  "contract": {
+    "address": "0xa513E6E4b8f2a923D98304ec87F64353C4D5C853",
+    "signerAddress": "0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266",
+    "abi": [
+      "constructor(address _feeAccount, uint256 _fee)",
+      "event CancelOrder(tuple(uint256 id, address user, address tokenGet, uint256 amountGet, address tokenGive, uint256 amountGive, uint256 timestamp, bool orderMade, bool orderFilled) order, uint256 id)",
+      "event OrderToken(address indexed tokenGet, uint256 numGet, address indexed tokenGive, uint256 numGive, address indexed owner, uint256 id, uint256 timestamp, bool orderMade, bool orderFilled)",
+      "event TokenDeposited(address indexed owner, address indexed spender, uint256 amount, uint256 balance)",
+      "event TokenWithdraw(address indexed owner, address indexed token, uint256 amount, uint256 balance)",
+      "event Trade(uint256 id, address indexed user, address creator, address indexed tokenGet, uint256 amountGet, address indexed tokenGive, uint256 amountGive, uint256 timestamp)",
+      "function balanceOf(address token, address user) view returns (uint256)",
+      "function cancelToken(uint256 id)",
+      "function depositTokens(address _token, uint256 amount)",
+      "function fee() view returns (uint256)",
+      "function feeAccount() view returns (address)",
+      "function fillOrder(uint256 id)",
+      "function makeOrder(address tokenGet, address tokenGive, uint256 numSen, uint256 numReceive) payable",
+      "function orderCancelled(uint256) view returns (bool)",
+      "function orderId() view returns (uint256)",
+      "function orders(uint256) view returns (uint256 id, address user, address tokenGet, uint256 amountGet, address tokenGive, uint256 amountGive, uint256 timestamp, bool orderMade, bool orderFilled)",
+      "function withdrawTokens(address token, uint256 amount)"
+    ]
+  }
+}
